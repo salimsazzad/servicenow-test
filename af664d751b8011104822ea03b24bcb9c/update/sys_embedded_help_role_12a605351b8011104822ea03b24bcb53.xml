@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_834830_employee.employee" name="x_834830_employee.employee">d6a605351b8011104822ea03b24bcb4f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-13 07:32:19</sys_created_on>
+        <sys_id>12a605351b8011104822ea03b24bcb53</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d6a605351b8011104822ea03b24bcb4f</sys_name>
+        <sys_package display_value="Employee Leave" source="x_834830_employee">af664d751b8011104822ea03b24bcb9c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Leave">af664d751b8011104822ea03b24bcb9c</sys_scope>
+        <sys_update_name>sys_embedded_help_role_12a605351b8011104822ea03b24bcb53</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-13 07:32:19</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

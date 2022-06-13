@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_834830_employee_leave_type" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_834830_employee_leave_type" element="NULL" name="x_834830_employee_leave_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b10b21791b0411104822ea03b24bcbbf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-13 10:11:13</sys_created_on>
+            <sys_id>b90b21791b0411104822ea03b24bcbc0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-13 10:11:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>title</element>
+            <list_id display_value="x_834830_employee_leave_type" element="NULL" name="x_834830_employee_leave_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b10b21791b0411104822ea03b24bcbbf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-13 10:11:13</sys_created_on>
+            <sys_id>310b21791b0411104822ea03b24bcbc1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-13 10:11:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>yearly_leave_hours</element>
+            <list_id display_value="x_834830_employee_leave_type" element="NULL" name="x_834830_employee_leave_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b10b21791b0411104822ea03b24bcbbf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-13 10:11:13</sys_created_on>
+            <sys_id>b10b21791b0411104822ea03b24bcbc1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-13 10:11:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_834830_employee_leave_type</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-13 10:11:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b10b21791b0411104822ea03b24bcbbf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_834830_employee_leave_type</sys_name>
+            <sys_package display_value="Employee Leave" source="x_834830_employee">af664d751b8011104822ea03b24bcb9c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Leave">af664d751b8011104822ea03b24bcb9c</sys_scope>
+            <sys_update_name>sys_ui_list_x_834830_employee_leave_type_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-13 10:11:13</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

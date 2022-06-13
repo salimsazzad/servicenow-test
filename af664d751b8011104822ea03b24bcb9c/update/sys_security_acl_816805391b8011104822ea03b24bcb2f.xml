@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_834830_employee_leave_type</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-13 07:39:52</sys_created_on>
+        <sys_id>816805391b8011104822ea03b24bcb2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_834830_employee_leave_type</sys_name>
+        <sys_package display_value="Employee Leave" source="x_834830_employee">af664d751b8011104822ea03b24bcb9c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Leave">af664d751b8011104822ea03b24bcb9c</sys_scope>
+        <sys_update_name>sys_security_acl_816805391b8011104822ea03b24bcb2f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-13 07:39:52</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

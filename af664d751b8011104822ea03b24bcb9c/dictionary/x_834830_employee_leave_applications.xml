@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Leave Applications" max_length="40" name="x_834830_employee_leave_applications" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" display="true" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" value="approve"/>
+                <element inactive_on_update="false" label="Disapproved" value="disapprove"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Time" mandatory="true" max_length="40" name="time" type="integer"/>
+        <element attributes="encode_utf8=false" label="Ttf" max_length="32" name="ttf" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Type" mandatory="true" max_length="32" name="type" reference="x_834830_employee_leave_type" type="reference"/>
+        <element attributes="encode_utf8=false" label="User ID" max_length="32" name="user_id" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="user_id"/>
+        </index>
+        <index name="index2">
+            <element name="ttf"/>
+        </index>
+        <index name="index3">
+            <element name="type"/>
+        </index>
+        <index name="index4">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
